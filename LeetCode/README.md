@@ -4,4 +4,6 @@
 
 - 1346 - Check If N and Its Double Exist
 
+- 1539 - Kth Missing Positive Number: solution here is solved for O(logN) time complexity
+
 - 2125 - Number of Laser Beams in a Bank
