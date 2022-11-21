@@ -1,9 +1,9 @@
-import q1658.Solution;
+import q2399.Solution;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        int[] i = new int[]{3,2,20,1,1,3};
+        int[] res = new int[]{1,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};        
         Solution sl = new Solution();
-        System.out.println(sl.minOperations(i, 10));
+        System.out.println(sl.checkDistances("abaccb", res));
     }
 }

@@ -30,3 +30,6 @@
 
 ## Stack
 - [1047 - Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) - Easy
+
+## BFS
+- [1926 - Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) - Medium
