@@ -27,6 +27,7 @@
 
 ## Math
 - [7 - Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) - Medium
+- [423 - Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/) - Medium
 
 ## Stack
 - [1047 - Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) - Easy
